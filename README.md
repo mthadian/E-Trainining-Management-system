@@ -4,7 +4,7 @@ E-Training Management System
 
 clone repo:-
 
-git clone https://github.com/TechiesEyes/InteliTraining.git
+git clone https://github.com/mthadian/E-Trainining-Management-system.git
 
 python manager.py makemigrations
 
